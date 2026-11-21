@@ -17,6 +17,8 @@
 ### Використані технології
 **VS Code**, **ChatGPT** і **https://www.w3schools.com/rust/index.php**
 
+##
+
 **21.11.2026**
 Вивчено за 21 листопада:
 
