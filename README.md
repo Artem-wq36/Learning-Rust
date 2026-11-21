@@ -15,4 +15,4 @@
 5) Головна та додаткові функції (fn main {})
 
 ## Використані технології
-**VS Code** і **ChatGPT**
+**VS Code**, **ChatGPT** і **https://www.w3schools.com/rust/index.php**
