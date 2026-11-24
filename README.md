@@ -43,4 +43,4 @@
 4) Цикл While
 
 ### Використані технології
-**VS Code**, **ChatGPT**, **https://www.w3schools.com/rust/index.php** і Ютуб канал **Гоша Дударь**, плейлист про Rust
+**VS Code**, **ChatGPT**, **https://www.w3schools.com/rust/index.php** і Ютуб канал **Гоша Дударь**, плейлист про **Rust**
