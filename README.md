@@ -31,3 +31,16 @@
 
 ### Використані технології
 **VS Code**, **ChatGPT** і **https://www.w3schools.com/rust/index.php**
+
+##
+
+**24.11.2026**
+Вивчено за 24 листопада:
+
+1) Умовний оператор match
+2) Цикл loop
+3) Цикл For
+4) Цикл While
+
+### Використані технології
+**VS Code**, **ChatGPT**, **https://www.w3schools.com/rust/index.php** і Ютуб канал **Гоша Дударь**, плейлист про Rust
